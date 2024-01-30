@@ -7,4 +7,4 @@ setInterval(() => {
     }vh)`;
     bubble.style.background = `hsl(${Math.random() * 360}, 70%, 70%)`;
   });
-}, 2000);
+}, 4000);
